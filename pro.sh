@@ -5,5 +5,5 @@ echo " The value of my course is: " $value
 echo " this is my second shell script "
 hi
 lakshmi
-
+how are you?
 
